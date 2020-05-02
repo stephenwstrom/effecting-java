@@ -1,4 +1,4 @@
-# effective-java
+# effecting-java
 
 ## Prerequisites
 * JDK 14 or later
